@@ -1,0 +1,12 @@
+src/gemm_vectorized.c:109:35: optimized: loop vectorized using 16 byte vectors and unroll factor 4
+src/gemm_vectorized.c:109:35: optimized: loop vectorized using 16 byte vectors and unroll factor 4
+src/gemm_vectorized.c:90:31: optimized: loop vectorized using 16 byte vectors and unroll factor 4
+src/gemm_vectorized.c:90:31: optimized: loop vectorized using 16 byte vectors and unroll factor 4
+src/gemm_vectorized.c:46:31: optimized: loop vectorized using 16 byte vectors and unroll factor 4
+src/gemm_vectorized.c:46:31: optimized: loop vectorized using 16 byte vectors and unroll factor 4
+src/gemm_vectorized.c:109:35: optimized: loop vectorized using 16 byte vectors and unroll factor 4
+src/gemm_vectorized.c:109:35: optimized: loop vectorized using 16 byte vectors and unroll factor 4
+src/gemm_vectorized.c:90:31: optimized: loop vectorized using 16 byte vectors and unroll factor 4
+src/gemm_vectorized.c:90:31: optimized: loop vectorized using 16 byte vectors and unroll factor 4
+src/gemm_vectorized.c:46:31: optimized: loop vectorized using 16 byte vectors and unroll factor 4
+src/gemm_vectorized.c:46:31: optimized: loop vectorized using 16 byte vectors and unroll factor 4
