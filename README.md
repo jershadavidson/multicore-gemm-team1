@@ -449,17 +449,3 @@ To reproduce the experiments:
 9. Store benchmark results in the raw CSV file.
 10. Generate the graphs using the scripts in `scripts/`.
 
-## 14. Project Information
-
-**Project:** Memory-Hierarchy-Aware GEMM on a Multicore CPU
-
-**Team:** 1
-
-**Cluster:** A – Dense Matrix-Matrix Multiplication (GEMM)
-
-**Problem:** 1
-
-**Team Members:**
-- Deshna Jain
-- Janet Megha King
-- Jersha L Davidson
